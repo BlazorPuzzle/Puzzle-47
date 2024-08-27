@@ -1,0 +1,12 @@
+﻿@page "/"
+@inject IConfiguration configuration
+
+<PageTitle>Home</PageTitle>
+
+<h1>@configuration["ConfigMessage"]</h1>
+
+<p>This is a .NET 8 Global Server Blazor Web App</p>
+<p>We are reading a value from appsettings.json and displaying it above</p>
+<p>What do we do if we want a different message in production than in Visual Studio?</p>
+<p>The big picture: Configuration settings can be different in production.</p>
+
