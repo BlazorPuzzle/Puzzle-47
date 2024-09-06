@@ -2,7 +2,7 @@
 
 ## Production Challenge
 
-YouTube Video: https://youtu.be/
+YouTube Video: https://youtu.be/RphhOCtBgmE
 
 Blazor Puzzle Home Page: https://blazorpuzzle.com
 
